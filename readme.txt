@@ -13,5 +13,5 @@ OR (with g++):
 3) Enter "Pontoon" (Windows) / "./Pontoon" (Linux)
 
 Logs will be stored in the src folder after a game session has ended
-<img src="https://github.com/liamsscreenname/pontoon/edit/master/pontoonexample.png" title="example image" />
+!example image(https://github.com/liamsscreenname/pontoon/blob/master/pontoonexample.png)
 
