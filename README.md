@@ -17,4 +17,4 @@ OR (with g++):
 
 Logs will be stored in the src folder after a game session has ended
 
-![example image](https://github.com/liamsscreenname/pontoon/edit/master/pontoonexample.png)
+![example image](pontoonexample.png)
